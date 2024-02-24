@@ -9,7 +9,7 @@ typedef struct URL_Patch
 
 static  const URL_Patch url_patches[] = {
     //nim-boss .bss
-    {0xE24B8A24, "https://nppl.app.pretendo.cc/p01/policylist/1/1/UNK"}
+    {0xE24B8A24, "https://rvqcportal.rverse.club/p01/policylist/1/1/UNK"}
 };
 
 #endif
